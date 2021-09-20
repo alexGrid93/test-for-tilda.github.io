@@ -1,0 +1,11 @@
+
+:root {
+  --main-color: #231F20;
+  --main-invert-color: white;
+  --cart-count-color: #539316;
+  --card-background-color: #FBF8F5;
+  --card-success-color: #117243;
+  --card-success-color-hover: #064A29;
+  --card-disabled-color: #c3c5c7;
+
+}
